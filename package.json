@@ -1,0 +1,15 @@
+{
+  "name": "com.sidefx.houdiniengine",
+  "version": "1.0.1",
+  "displayName": "Houdini Engine",
+  "description": "Houdini Engine for Unity is a Unity plug-in that allows deep integration of Houdini technology into Unity through the use of Houdini Engine.",
+  "keywords": ["houdini","dcc","connect"],
+  "author": {
+    "name": "Valentin Besson",
+    "email": "valentin@klang-games.com"
+  },
+  "dependencies": {
+  },
+  "type": "library",
+  "hideInEditor": false
+}
